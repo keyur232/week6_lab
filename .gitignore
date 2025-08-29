@@ -1,0 +1,33 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Unit test / coverage reports
+.coverage
+htmlcov/
+.tox/
+.pytest_cache/
+
+# Jupyter / VSCode
+.ipynb_checkpoints/
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Screenshots or temporary images
+*.png
+*.jpg
+*.jpeg
